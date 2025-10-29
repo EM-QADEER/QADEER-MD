@@ -1,6 +1,6 @@
-name: khan-md
+name: qadeer-md
 services:
-  - name: khan-md-service
+  - name: qadeer-md-service
     type: web
     ports:
       - 5000
