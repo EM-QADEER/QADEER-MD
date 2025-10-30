@@ -41,7 +41,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 (𝙋𝘼𝙄𝙍𝙄𝙉𝙂)
 <p align="center">
-  <a href="https://qadeer-md-pairing-07.onrender.com/">
+  <a href="https://qadeerpairsite-2e2b221d542c.herokuapp.com/">
     <img src="https://img.shields.io/badge/Generate-PAIRING_CODE-B2FF59?style=for-the-badge&logo=android&logoColor=black" />
   </a>
 </p>
